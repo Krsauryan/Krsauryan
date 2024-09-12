@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krsauryan
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning competitve programming and dsa using c++
-- 💞️ I’m looking to collaborate on machine learning and competitive programming projects
+- 💞️ I’m looking to collaborate on data science, machine learning and competitive programming projects
 - 📫 How to reach me phone and whatsapp on : +919973227673
 
 <!---
